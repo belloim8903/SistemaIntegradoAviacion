@@ -1,0 +1,54 @@
+---------------------------------------------------------
+Extensiones de Visual estudio code 
+Color Highlight - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
+
+Live Server - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+
+Path Intellisense - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+
+Auto Rename Tag - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+
+Material Icon Theme - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
+Curso de CodeStream
+
+https://platzi.com/clases/comunicacion-codestream/
+
+
+Prettier - Code formatter - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+
+vscode-icons - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+
+Bracket Pair Colorizer - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+
+Curso de HTML y CSS [Empieza Gratis] - Platzi
+
+https://platzi.com/cursos/html-css/
+---------------------------------------------------------------
+Libreria
+- https://es.reactjs.org/
+------------------------------------------------
