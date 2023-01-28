@@ -51,4 +51,20 @@ https://platzi.com/cursos/html-css/
 ---------------------------------------------------------------
 Libreria
 - https://es.reactjs.org/
-------------------------------------------------
+---------------------------------------------------------------
+en la  powe shell de windows descargar el Subsistema de Windows
+ para Linux (Windows Subsystem for Linux) mediente el siguiente
+comando:
+
+wsl --install
+---------------------------------------------------------------
+HTML IMPORTANTE AYUDA
+https://platzi.com/blog/etiquetas-html-debes-conocer/
+https://htmlreference.io/
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
